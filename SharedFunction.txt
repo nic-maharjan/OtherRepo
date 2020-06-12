@@ -3,3 +3,7 @@ function CommonDDL(){
 
 function Authenticate(){
 }
+
+function Something(){
+    --added from feature 2
+}
