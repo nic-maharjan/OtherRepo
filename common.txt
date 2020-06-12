@@ -1,3 +1,5 @@
 This is common file
 
 Added line from feature1.
+
+Note:This file can be used by anyone.
