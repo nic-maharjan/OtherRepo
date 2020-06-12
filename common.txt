@@ -1,6 +1,7 @@
 This is common file
 
 
+
 Added line from feature1.
 
 Note:This file can be used by anyone.
@@ -8,3 +9,6 @@ Note:This file can be used by anyone.
 
 Added a line from feature2.
 Added a line in common file from feature 2
+
+Added a line from feature3.
+
